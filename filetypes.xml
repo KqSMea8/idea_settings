@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="TestEvent.java" type="PLAIN_TEXT" />
+      <mapping pattern="rr" type="PLAIN_TEXT" />
+      <mapping pattern="App.java" type="PLAIN_TEXT" />
+      <mapping pattern="sofa-build" type="PLAIN_TEXT" />
+      <mapping ext="properties-ecaifwtx_prod" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

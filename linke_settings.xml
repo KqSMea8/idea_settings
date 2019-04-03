@@ -1,0 +1,53 @@
+<application>
+  <component name="LinkIDEPluginSettings">
+    <option name="linke58Env">
+      <LinkeEnv>
+        <option name="linkcUser">
+          <LinkcUser>
+            <option name="avatarUrl" value="https://work.antfinancial-corp.com/photo/74059.80x80.jpg" />
+            <option name="createdAt" value="1425783732000" />
+            <option name="department" value="蚂蚁金服-支付宝事业群-支付宝技术部-商家及开放技术部-商家技术部-商家运营技术部-数据化运营" />
+            <option name="email" value="yaoqiang.yq@antfin.com" />
+            <option name="encPrivateToken" value="9abd9471a3541335b717ce27fd83f70721dd4b05a4183fc64c051ee8694daae6" />
+            <option name="externUid" value="74059" />
+            <option name="id" value="1150" />
+            <option name="name" value="君吉" />
+            <option name="username" value="yaoqiang.yq" />
+            <option name="webUrl" value="/u/yaoqiang.yq/" />
+          </LinkcUser>
+        </option>
+        <option name="linkeEnv" value="网商" />
+      </LinkeEnv>
+    </option>
+    <option name="linkeAlipayEnv">
+      <LinkeEnv>
+        <option name="active" value="true" />
+        <option name="linkcUser">
+          <LinkcUser>
+            <option name="avatarUrl" value="https://work.antfinancial-corp.com/photo/74059.80x80.jpg" />
+            <option name="createdAt" value="1425783732000" />
+            <option name="department" value="蚂蚁金服-支付宝事业群-支付宝技术部-商家及开放技术部-商家技术部-商家运营技术部-数据化运营" />
+            <option name="email" value="yaoqiang.yq@antfin.com" />
+            <option name="encPrivateToken" value="9abd9471a3541335b717ce27fd83f70721dd4b05a4183fc64c051ee8694daae6" />
+            <option name="externUid" value="74059" />
+            <option name="id" value="1150" />
+            <option name="name" value="君吉" />
+            <option name="username" value="yaoqiang.yq" />
+            <option name="webUrl" value="/u/yaoqiang.yq/" />
+          </LinkcUser>
+        </option>
+        <option name="linkeUser">
+          <User>
+            <option name="account" value="yaoqiang.yq" />
+            <option name="department" value="蚂蚁金服-支付宝事业群-支付宝技术部-商家及开放技术部-商家技术部-商家运营技术部-数据化运营" />
+            <option name="email" value="yaoqiang.yq@antfin.com" />
+            <option name="empId" value="74059" />
+            <option name="id" value="5a434a4e811f19b31bdd0948" />
+            <option name="name" value="姚强" />
+            <option name="nick" value="君吉" />
+          </User>
+        </option>
+      </LinkeEnv>
+    </option>
+  </component>
+</application>

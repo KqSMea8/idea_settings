@@ -1,0 +1,15 @@
+<application>
+  <component name="TalaApplicationSetting">
+    <option name="currentCompany" value="Antfin" />
+    <option name="apiHost" value="http://codeqa.alipay.net:5000/" />
+    <option name="user">
+      <User>
+        <option name="account" value="yaoqiang.yq" />
+        <option name="empId" value="074059" />
+        <option name="id" value="269975" />
+        <option name="name" value="姚强" />
+        <option name="nick" value="君吉" />
+      </User>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="clog" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cmd" value="define(function(require, exports, module) {&#10;    $END$&#10;});" description="cmd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
